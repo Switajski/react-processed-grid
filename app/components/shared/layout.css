@@ -1,4 +1,4 @@
-.large { max-width: 42rem; }
+.large { max-width: 56rem; }
 
 .centered {
   composes: large;
