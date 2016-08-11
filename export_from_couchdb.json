@@ -1,0 +1,1611 @@
+{
+  "total_rows": 20,
+  "offset": 0,
+  "rows": [
+    {
+      "id": "AB11",
+      "key": "AB11",
+      "value": {
+        "rev": "1-77e4c5e9d5c96d26d279c4771ff80a1e"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 1,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 3,
+            "quantity": 15,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "3"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 5,
+            "quantity": 12,
+            "orderItem": {
+              "documentNo": "B12",
+              "position": "2"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 4,
+            "quantity": 30,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "4"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 6,
+            "quantity": 5,
+            "orderItem": {
+              "documentNo": "B12",
+              "position": "3"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 2,
+            "quantity": 10,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "2"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          }
+        ],
+        "customerDetails": {
+          "vendorNumber": "DE-Priebes",
+          "vatIdNo": "DE 12869876",
+          "paymentConditions": "Net 10 - Payment ten days after invoice date",
+          "saleRepresentative": null,
+          "mark": "Yvonnes Happy Baby Shop",
+          "contactInformation": {
+            "contact1": "Herr Priebe",
+            "contact2": "info@priebes.eu",
+            "contact3": null,
+            "contact4": null
+          }
+        },
+        "purchaseAgreement": {
+          "invoiceAddress": {
+            "name1": "Donaldson Ent.",
+            "name2": "Business Unit Sales",
+            "street": "7800 Eu, Av.",
+            "postalCode": 954,
+            "city": "San Isidro",
+            "country": "DE",
+            "complete": true
+          },
+          "shippingAddress": {
+            "name1": "Yvonne",
+            "name2": "Donaldson",
+            "street": "7800 Eu, Av.",
+            "postalCode": 954,
+            "city": "San Isidro",
+            "country": "DE",
+            "complete": true
+          },
+          "deliveryMethod": null,
+          "expectedDelivery": "09/08/2016",
+          "customerNumber": 11,
+          "paymentConditions": "Net 10 - Payment ten days after invoice date"
+        },
+        "orderAgreementNumber": "AU11",
+        "agreed": true,
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "OrderConfirmation",
+        "_id": "AB11",
+        "_rev": "1-77e4c5e9d5c96d26d279c4771ff80a1e"
+      }
+    },
+    {
+      "id": "AB13",
+      "key": "AB13",
+      "value": {
+        "rev": "1-e3b32396c9938fed885e14c4ae1adc5b"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 1,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 2,
+            "quantity": 4,
+            "orderItem": {
+              "documentNo": "B13",
+              "position": "2"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 4,
+            "quantity": 8,
+            "orderItem": {
+              "documentNo": "B13",
+              "position": "4"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 3,
+            "quantity": 27,
+            "orderItem": {
+              "documentNo": "B13",
+              "position": "3"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 5,
+            "quantity": 6,
+            "orderItem": {
+              "documentNo": "B13",
+              "position": "5"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          }
+        ],
+        "customerDetails": {
+          "vendorNumber": "DE-Priebes",
+          "vatIdNo": "DE 12869876",
+          "paymentConditions": "Net 10 - Payment ten days after invoice date",
+          "saleRepresentative": null,
+          "mark": "Yvonnes Happy Baby Shop",
+          "contactInformation": {
+            "contact1": "Herr Priebe",
+            "contact2": "info@priebes.eu",
+            "contact3": null,
+            "contact4": null
+          }
+        },
+        "purchaseAgreement": {
+          "invoiceAddress": {
+            "name1": "Donaldson Ent.",
+            "name2": "Business Unit Sales",
+            "street": "7800 Eu, Av.",
+            "postalCode": 954,
+            "city": "San Isidro",
+            "country": "DE",
+            "complete": true
+          },
+          "shippingAddress": {
+            "name1": "Yvonne",
+            "name2": "Donaldson",
+            "street": "7800 Eu, Av.",
+            "postalCode": 954,
+            "city": "changed City",
+            "country": "DE",
+            "complete": true
+          },
+          "deliveryMethod": null,
+          "expectedDelivery": "01/08/2016",
+          "customerNumber": 11,
+          "paymentConditions": "Net 10 - Payment ten days after invoice date"
+        },
+        "orderAgreementNumber": "AU13",
+        "agreed": true,
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "OrderConfirmation",
+        "_id": "AB13",
+        "_rev": "1-e3b32396c9938fed885e14c4ae1adc5b"
+      }
+    },
+    {
+      "id": "AB15",
+      "key": "AB15",
+      "value": {
+        "rev": "1-f3fd9c6a6cfe489431a64fc59672769f"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 1,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 2,
+            "quantity": 5,
+            "orderItem": {
+              "documentNo": "B15",
+              "position": "2"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 4,
+            "quantity": 3,
+            "orderItem": {
+              "documentNo": "B15",
+              "position": "4"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 3,
+            "quantity": 8,
+            "orderItem": {
+              "documentNo": "B15",
+              "position": "3"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          }
+        ],
+        "customerDetails": {
+          "vendorNumber": "DE-Priebes",
+          "vatIdNo": "DE 12869876",
+          "paymentConditions": "Net 10 - Payment ten days after invoice date",
+          "saleRepresentative": null,
+          "mark": "Yvonnes Happy Baby Shop",
+          "contactInformation": {
+            "contact1": "Herr Priebe",
+            "contact2": "info@priebes.eu",
+            "contact3": null,
+            "contact4": null
+          }
+        },
+        "purchaseAgreement": {
+          "invoiceAddress": {
+            "name1": "name1 87",
+            "name2": "name2 87",
+            "street": "street 87",
+            "postalCode": 87,
+            "city": "city87",
+            "country": "DE",
+            "complete": true
+          },
+          "shippingAddress": {
+            "name1": "Yvonne",
+            "name2": "Donaldson",
+            "street": "7800 Eu, Av.",
+            "postalCode": 954,
+            "city": "San Isidro",
+            "country": "DE",
+            "complete": true
+          },
+          "deliveryMethod": null,
+          "expectedDelivery": "19/08/2016",
+          "customerNumber": 11,
+          "paymentConditions": "Net 10 - Payment ten days after invoice date"
+        },
+        "orderAgreementNumber": "AU15",
+        "agreed": true,
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "OrderConfirmation",
+        "_id": "AB15",
+        "_rev": "1-f3fd9c6a6cfe489431a64fc59672769f"
+      }
+    },
+    {
+      "id": "AB22",
+      "key": "AB22",
+      "value": {
+        "rev": "1-a3e5d943446b339d2c0d6064541d2056"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 3,
+            "quantity": 13,
+            "orderItem": {
+              "documentNo": "B22",
+              "position": "2"
+            },
+            "pending": false,
+            "agreed": false,
+            "type": "ConfirmationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 2,
+            "quantity": 6,
+            "orderItem": {
+              "documentNo": "B22",
+              "position": "3"
+            },
+            "pending": false,
+            "agreed": false,
+            "type": "ConfirmationItem"
+          }
+        ],
+        "customerDetails": {
+          "vendorNumber": null,
+          "vatIdNo": null,
+          "paymentConditions": "5 % Skonto, wenn innerhalb 5 Tagen",
+          "saleRepresentative": null,
+          "mark": null,
+          "contactInformation": null
+        },
+        "purchaseAgreement": {
+          "invoiceAddress": {
+            "name1": "Donaldson Ent.",
+            "name2": "Business Unit Sales",
+            "street": "7800 Eu, Av.",
+            "postalCode": 954,
+            "city": "San Isidro",
+            "country": "DE",
+            "complete": true
+          },
+          "shippingAddress": {
+            "name1": "Yvonne",
+            "name2": "Donaldson",
+            "street": "7800 Eu, Av.",
+            "postalCode": 954,
+            "city": "San Isidro",
+            "country": "DE",
+            "complete": true
+          },
+          "deliveryMethod": null,
+          "expectedDelivery": "04/08/2016",
+          "customerNumber": null,
+          "paymentConditions": "5 % Skonto, wenn innerhalb 5 Tagen"
+        },
+        "orderAgreementNumber": null,
+        "agreed": false,
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "OrderConfirmation",
+        "_id": "AB22",
+        "_rev": "1-a3e5d943446b339d2c0d6064541d2056"
+      }
+    },
+    {
+      "id": "AB31",
+      "key": "AB31",
+      "value": {
+        "rev": "1-2676d434b32f2243d71e402179e17afd"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 1,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 2,
+            "quantity": 6,
+            "orderItem": {
+              "documentNo": "B31",
+              "position": "2"
+            },
+            "pending": false,
+            "agreed": true,
+            "type": "ConfirmationItem"
+          }
+        ],
+        "customerDetails": {
+          "vendorNumber": null,
+          "vatIdNo": null,
+          "paymentConditions": "5 % Skonto, wenn innerhalb 5 Tagen",
+          "saleRepresentative": null,
+          "mark": null,
+          "contactInformation": null
+        },
+        "purchaseAgreement": {
+          "invoiceAddress": {
+            "name1": "Edward",
+            "name2": "Turner",
+            "street": "P.O. Box 194, 6686 Non, St.",
+            "postalCode": 97066,
+            "city": "Savona",
+            "country": "UK",
+            "complete": true
+          },
+          "shippingAddress": {
+            "name1": "Edward",
+            "name2": "Turner",
+            "street": "P.O. Box 194, 6686 Non, St.",
+            "postalCode": 97066,
+            "city": "Savona",
+            "country": "UK",
+            "complete": true
+          },
+          "deliveryMethod": null,
+          "expectedDelivery": "04/08/2016",
+          "customerNumber": null,
+          "paymentConditions": "5 % Skonto, wenn innerhalb 5 Tagen"
+        },
+        "orderAgreementNumber": "AU31",
+        "agreed": true,
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "OrderConfirmation",
+        "_id": "AB31",
+        "_rev": "1-2676d434b32f2243d71e402179e17afd"
+      }
+    },
+    {
+      "id": "ABGEBROCHEN-AB22",
+      "key": "ABGEBROCHEN-AB22",
+      "value": {
+        "rev": "1-363029dea95f7e389e0d50ce5f177eb2"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 2,
+            "quantity": 13,
+            "orderItem": {
+              "documentNo": "B22",
+              "position": "2"
+            },
+            "type": "CancellationItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": null,
+            "position": 3,
+            "quantity": 6,
+            "orderItem": {
+              "documentNo": "B22",
+              "position": "3"
+            },
+            "type": "CancellationItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "CancelReport",
+        "_id": "ABGEBROCHEN-AB22",
+        "_rev": "1-363029dea95f7e389e0d50ce5f177eb2"
+      }
+    },
+    {
+      "id": "B11",
+      "key": "B11",
+      "value": {
+        "rev": "1-970bff0499bfa69555b8b861af060ae5"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "customer": {
+          "created": "30/07/2016",
+          "version": 0,
+          "customerNumber": 11,
+          "email": "massa.Suspendisse@consequat.edu",
+          "details": {
+            "vendorNumber": "DE-Priebes",
+            "vatIdNo": "DE 12869876",
+            "paymentConditions": "Net 10 - Payment ten days after invoice date",
+            "saleRepresentative": null,
+            "mark": "Yvonnes Happy Baby Shop",
+            "contactInformation": {
+              "contact1": "Herr Priebe",
+              "contact2": "Tel.Nr.: 0715897651",
+              "contact3": "Fax Nr.: 0715897652",
+              "contact4": "info@priebes.eu"
+            }
+          },
+          "companyName": "Baby Toys",
+          "firstName": "Yvonne",
+          "lastName": "Donaldson",
+          "phone": null,
+          "fax": null,
+          "notes": null,
+          "type": "Customer"
+        },
+        "customerEmail": "massa.Suspendisse@consequat.edu",
+        "originSystem": "FLEXIBLE_ORDERS",
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 15,
+            "negotiatedPriceNet": {
+              "value": 28.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Miladka athra stars lime",
+              "productNumber": "28189",
+              "productType": "PRODUCT"
+            },
+            "position": 3,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 30,
+            "negotiatedPriceNet": {
+              "value": 43.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Paul anthra dots",
+              "productNumber": "43092",
+              "productType": "PRODUCT"
+            },
+            "position": 4,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 10,
+            "negotiatedPriceNet": {
+              "value": 12.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Amy Fleece",
+              "productNumber": "75195",
+              "productType": "PRODUCT"
+            },
+            "position": 2,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "type": "Order",
+        "_id": "B11",
+        "_rev": "1-970bff0499bfa69555b8b861af060ae5"
+      }
+    },
+    {
+      "id": "B12",
+      "key": "B12",
+      "value": {
+        "rev": "1-dfa4a7aa64bae96a92c8f119fc221b13"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "customer": {
+          "created": "30/07/2016",
+          "version": 0,
+          "customerNumber": 11,
+          "email": "massa.Suspendisse@consequat.edu",
+          "details": {
+            "vendorNumber": "DE-Priebes",
+            "vatIdNo": "DE 12869876",
+            "paymentConditions": "Net 10 - Payment ten days after invoice date",
+            "saleRepresentative": null,
+            "mark": "Yvonnes Happy Baby Shop",
+            "contactInformation": {
+              "contact1": "Herr Priebe",
+              "contact2": "Tel.Nr.: 0715897651",
+              "contact3": "Fax Nr.: 0715897652",
+              "contact4": "info@priebes.eu"
+            }
+          },
+          "companyName": "Baby Toys",
+          "firstName": "Yvonne",
+          "lastName": "Donaldson",
+          "phone": null,
+          "fax": null,
+          "notes": null,
+          "type": "Customer"
+        },
+        "customerEmail": "massa.Suspendisse@consequat.edu",
+        "originSystem": "FLEXIBLE_ORDERS",
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 12,
+            "negotiatedPriceNet": {
+              "value": 33.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Salome stars lime",
+              "productNumber": "33025",
+              "productType": "PRODUCT"
+            },
+            "position": 2,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 5,
+            "negotiatedPriceNet": {
+              "value": 56.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Jurek destroyer",
+              "productNumber": "56026",
+              "productType": "PRODUCT"
+            },
+            "position": 3,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "type": "Order",
+        "_id": "B12",
+        "_rev": "1-dfa4a7aa64bae96a92c8f119fc221b13"
+      }
+    },
+    {
+      "id": "B13",
+      "key": "B13",
+      "value": {
+        "rev": "1-9f424f4de7210ad70d0eee729561e974"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "customer": {
+          "created": "30/07/2016",
+          "version": 0,
+          "customerNumber": 11,
+          "email": "massa.Suspendisse@consequat.edu",
+          "details": {
+            "vendorNumber": "DE-Priebes",
+            "vatIdNo": "DE 12869876",
+            "paymentConditions": "Net 10 - Payment ten days after invoice date",
+            "saleRepresentative": null,
+            "mark": "Yvonnes Happy Baby Shop",
+            "contactInformation": {
+              "contact1": "Herr Priebe",
+              "contact2": "Tel.Nr.: 0715897651",
+              "contact3": "Fax Nr.: 0715897652",
+              "contact4": "info@priebes.eu"
+            }
+          },
+          "companyName": "Baby Toys",
+          "firstName": "Yvonne",
+          "lastName": "Donaldson",
+          "phone": null,
+          "fax": null,
+          "notes": null,
+          "type": "Customer"
+        },
+        "customerEmail": "massa.Suspendisse@consequat.edu",
+        "originSystem": "FLEXIBLE_ORDERS",
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 8,
+            "negotiatedPriceNet": {
+              "value": 33.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Salome stars lime",
+              "productNumber": "33025",
+              "productType": "PRODUCT"
+            },
+            "position": 4,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 4,
+            "negotiatedPriceNet": {
+              "value": 43.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Paul anthra dots",
+              "productNumber": "43092",
+              "productType": "PRODUCT"
+            },
+            "position": 2,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 6,
+            "negotiatedPriceNet": {
+              "value": 28.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Miladka athra stars lime",
+              "productNumber": "28189",
+              "productType": "PRODUCT"
+            },
+            "position": 5,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 27,
+            "negotiatedPriceNet": {
+              "value": 56.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Jurek destroyer",
+              "productNumber": "56026",
+              "productType": "PRODUCT"
+            },
+            "position": 3,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "type": "Order",
+        "_id": "B13",
+        "_rev": "1-9f424f4de7210ad70d0eee729561e974"
+      }
+    },
+    {
+      "id": "B15",
+      "key": "B15",
+      "value": {
+        "rev": "1-25a3a77930ce1226927c7ec42587b93b"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "customer": {
+          "created": "30/07/2016",
+          "version": 0,
+          "customerNumber": 11,
+          "email": "massa.Suspendisse@consequat.edu",
+          "details": {
+            "vendorNumber": "DE-Priebes",
+            "vatIdNo": "DE 12869876",
+            "paymentConditions": "Net 10 - Payment ten days after invoice date",
+            "saleRepresentative": null,
+            "mark": "Yvonnes Happy Baby Shop",
+            "contactInformation": {
+              "contact1": "Herr Priebe",
+              "contact2": "Tel.Nr.: 0715897651",
+              "contact3": "Fax Nr.: 0715897652",
+              "contact4": "info@priebes.eu"
+            }
+          },
+          "companyName": "Baby Toys",
+          "firstName": "Yvonne",
+          "lastName": "Donaldson",
+          "phone": null,
+          "fax": null,
+          "notes": null,
+          "type": "Customer"
+        },
+        "customerEmail": "massa.Suspendisse@consequat.edu",
+        "originSystem": "FLEXIBLE_ORDERS",
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 5,
+            "negotiatedPriceNet": {
+              "value": 28.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Miladka athra stars lime",
+              "productNumber": "28189",
+              "productType": "PRODUCT"
+            },
+            "position": 2,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 8,
+            "negotiatedPriceNet": {
+              "value": 43.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Paul anthra dots",
+              "productNumber": "43092",
+              "productType": "PRODUCT"
+            },
+            "position": 3,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 3,
+            "negotiatedPriceNet": {
+              "value": 33.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Salome stars lime",
+              "productNumber": "33025",
+              "productType": "PRODUCT"
+            },
+            "position": 4,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "type": "Order",
+        "_id": "B15",
+        "_rev": "1-25a3a77930ce1226927c7ec42587b93b"
+      }
+    },
+    {
+      "id": "B21",
+      "key": "B21",
+      "value": {
+        "rev": "1-09369aa641e5134d68108bbd3e7c3529"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "customer": {
+          "created": "30/07/2016",
+          "version": 0,
+          "customerNumber": 22,
+          "email": "vel@laciniaSed.org",
+          "details": null,
+          "companyName": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "fax": null,
+          "notes": null,
+          "type": "Customer"
+        },
+        "customerEmail": "vel@laciniaSed.org",
+        "originSystem": "FLEXIBLE_ORDERS",
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 17,
+            "negotiatedPriceNet": {
+              "value": 33.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Salome stars lime",
+              "productNumber": "33025",
+              "productType": "PRODUCT"
+            },
+            "position": 2,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 3,
+            "negotiatedPriceNet": {
+              "value": 12.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Amy Fleece",
+              "productNumber": "75195",
+              "productType": "PRODUCT"
+            },
+            "position": 3,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "type": "Order",
+        "_id": "B21",
+        "_rev": "1-09369aa641e5134d68108bbd3e7c3529"
+      }
+    },
+    {
+      "id": "B22",
+      "key": "B22",
+      "value": {
+        "rev": "1-5f939bc3b813cafedd4f671b01715f28"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "customer": {
+          "created": "30/07/2016",
+          "version": 0,
+          "customerNumber": 22,
+          "email": "vel@laciniaSed.org",
+          "details": null,
+          "companyName": null,
+          "firstName": null,
+          "lastName": null,
+          "phone": null,
+          "fax": null,
+          "notes": null,
+          "type": "Customer"
+        },
+        "customerEmail": "vel@laciniaSed.org",
+        "originSystem": "FLEXIBLE_ORDERS",
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 6,
+            "negotiatedPriceNet": {
+              "value": 43.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Paul anthra dots",
+              "productNumber": "43092",
+              "productType": "PRODUCT"
+            },
+            "position": 3,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 13,
+            "negotiatedPriceNet": {
+              "value": 56.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Jurek destroyer",
+              "productNumber": "56026",
+              "productType": "PRODUCT"
+            },
+            "position": 2,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "type": "Order",
+        "_id": "B22",
+        "_rev": "1-5f939bc3b813cafedd4f671b01715f28"
+      }
+    },
+    {
+      "id": "B31",
+      "key": "B31",
+      "value": {
+        "rev": "1-5b86f2c16fcb09eab45b5ce0688911d0"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "customer": {
+          "created": "30/07/2016",
+          "version": 0,
+          "customerNumber": 44,
+          "email": "Phasellus.in.felis@purusaccumsaninterdum.co.uk",
+          "details": null,
+          "companyName": "Going Mad inc.",
+          "firstName": "Edward",
+          "lastName": "Turner",
+          "phone": null,
+          "fax": null,
+          "notes": null,
+          "type": "Customer"
+        },
+        "customerEmail": "Phasellus.in.felis@purusaccumsaninterdum.co.uk",
+        "originSystem": "FLEXIBLE_ORDERS",
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "orderedQuantity": 6,
+            "negotiatedPriceNet": {
+              "value": 43.99,
+              "currency": "EUR"
+            },
+            "product": {
+              "name": "Paul anthra dots",
+              "productNumber": "43092",
+              "productType": "PRODUCT"
+            },
+            "position": 2,
+            "packageNumber": null,
+            "trackingNumber": null,
+            "additionalInfo": null,
+            "shippingCosts": false,
+            "type": "OrderItem"
+          }
+        ],
+        "vatRate": 0.19,
+        "type": "Order",
+        "_id": "B31",
+        "_rev": "1-5b86f2c16fcb09eab45b5ce0688911d0"
+      }
+    },
+    {
+      "id": "L11",
+      "key": "L11",
+      "value": {
+        "rev": "1-cd367a510912520455f121845a4046ed"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "3"
+            },
+            "position": 3,
+            "quantity": 2,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "3"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "2"
+            },
+            "position": 2,
+            "quantity": 2,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "2"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          }
+        ],
+        "shippedAddress": {
+          "name1": "Yvonne",
+          "name2": "Donaldson",
+          "street": "7800 Eu, Av.",
+          "postalCode": 954,
+          "city": "San Isidro",
+          "country": "DE",
+          "complete": true
+        },
+        "shippingCosts": {
+          "value": 10,
+          "currency": "EUR"
+        },
+        "packageNumber": "packageNumber",
+        "trackNumber": "trackNumber",
+        "deliveryMethod": null,
+        "showPrices": false,
+        "netAmount": {
+          "value": 0,
+          "currency": "EUR"
+        },
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "DeliveryNotes",
+        "_id": "L11",
+        "_rev": "1-cd367a510912520455f121845a4046ed"
+      }
+    },
+    {
+      "id": "L12",
+      "key": "L12",
+      "value": {
+        "rev": "1-43cea68e023cab08cb34709a9e798e4a"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "3"
+            },
+            "position": 3,
+            "quantity": 3,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "3"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "2"
+            },
+            "position": 2,
+            "quantity": 3,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "2"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          }
+        ],
+        "shippedAddress": {
+          "name1": "Yvonne",
+          "name2": "Donaldson",
+          "street": "7800 Eu, Av.",
+          "postalCode": 954,
+          "city": "San Isidro",
+          "country": "DE",
+          "complete": true
+        },
+        "shippingCosts": {
+          "value": 1,
+          "currency": "EUR"
+        },
+        "packageNumber": "packageNumber12",
+        "trackNumber": "trackNumber12",
+        "deliveryMethod": null,
+        "showPrices": false,
+        "netAmount": {
+          "value": 0,
+          "currency": "EUR"
+        },
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "DeliveryNotes",
+        "_id": "L12",
+        "_rev": "1-43cea68e023cab08cb34709a9e798e4a"
+      }
+    },
+    {
+      "id": "L13",
+      "key": "L13",
+      "value": {
+        "rev": "1-1d52bd37559ac68efb9bb656eec13baa"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "5"
+            },
+            "position": 2,
+            "quantity": 1,
+            "orderItem": {
+              "documentNo": "B12",
+              "position": "2"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "6"
+            },
+            "position": 3,
+            "quantity": 5,
+            "orderItem": {
+              "documentNo": "B12",
+              "position": "3"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          }
+        ],
+        "shippedAddress": {
+          "name1": "Yvonne",
+          "name2": "Donaldson",
+          "street": "7800 Eu, Av.",
+          "postalCode": 954,
+          "city": "San Isidro",
+          "country": "DE",
+          "complete": true
+        },
+        "shippingCosts": {
+          "value": 1,
+          "currency": "EUR"
+        },
+        "packageNumber": "packageNumber13",
+        "trackNumber": "trackNumber13",
+        "deliveryMethod": null,
+        "showPrices": false,
+        "netAmount": {
+          "value": 0,
+          "currency": "EUR"
+        },
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "DeliveryNotes",
+        "_id": "L13",
+        "_rev": "1-1d52bd37559ac68efb9bb656eec13baa"
+      }
+    },
+    {
+      "id": "L14",
+      "key": "L14",
+      "value": {
+        "rev": "1-8c262df7b729ed598ea89eab3279dc21"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "4"
+            },
+            "position": 2,
+            "quantity": 5,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "4"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          }
+        ],
+        "shippedAddress": {
+          "name1": "Yvonne",
+          "name2": "Donaldson",
+          "street": "7800 Eu, Av.",
+          "postalCode": 954,
+          "city": "San Isidro",
+          "country": "DE",
+          "complete": true
+        },
+        "shippingCosts": {
+          "value": 0,
+          "currency": "EUR"
+        },
+        "packageNumber": "packageNumber14",
+        "trackNumber": "trackNumber14",
+        "deliveryMethod": null,
+        "showPrices": false,
+        "netAmount": {
+          "value": 0,
+          "currency": "EUR"
+        },
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "DeliveryNotes",
+        "_id": "L14",
+        "_rev": "1-8c262df7b729ed598ea89eab3279dc21"
+      }
+    },
+    {
+      "id": "L15",
+      "key": "L15",
+      "value": {
+        "rev": "1-ae63cc73710d5a2e6b019b31284b662a"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB15",
+              "position": "3"
+            },
+            "position": 3,
+            "quantity": 8,
+            "orderItem": {
+              "documentNo": "B15",
+              "position": "3"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "AB11",
+              "position": "4"
+            },
+            "position": 2,
+            "quantity": 15,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "4"
+            },
+            "packageNumber": null,
+            "trackNumber": null,
+            "type": "ShippingItem"
+          }
+        ],
+        "shippedAddress": {
+          "name1": "Yvonne",
+          "name2": "Donaldson",
+          "street": "7800 Eu, Av.",
+          "postalCode": 954,
+          "city": "San Isidro",
+          "country": "DE",
+          "complete": true
+        },
+        "shippingCosts": {
+          "value": 0,
+          "currency": "EUR"
+        },
+        "packageNumber": "packageNumber15",
+        "trackNumber": "trackNumber15",
+        "deliveryMethod": null,
+        "showPrices": false,
+        "netAmount": {
+          "value": 0,
+          "currency": "EUR"
+        },
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "DeliveryNotes",
+        "_id": "L15",
+        "_rev": "1-ae63cc73710d5a2e6b019b31284b662a"
+      }
+    },
+    {
+      "id": "R11",
+      "key": "R11",
+      "value": {
+        "rev": "1-863b76ddf5ed83385bddb16814a1873a"
+      },
+      "doc": {
+        "created": "30/07/2016",
+        "version": 0,
+        "items": [
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "L11",
+              "position": "2"
+            },
+            "position": 3,
+            "quantity": 2,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "2"
+            },
+            "type": "InvoiceItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "L12",
+              "position": "3"
+            },
+            "position": 5,
+            "quantity": 3,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "3"
+            },
+            "type": "InvoiceItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "L11",
+              "position": "3"
+            },
+            "position": 2,
+            "quantity": 2,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "3"
+            },
+            "type": "InvoiceItem"
+          },
+          {
+            "created": "30/07/2016",
+            "version": 0,
+            "predecessor": {
+              "documentNo": "L12",
+              "position": "2"
+            },
+            "position": 4,
+            "quantity": 3,
+            "orderItem": {
+              "documentNo": "B11",
+              "position": "2"
+            },
+            "type": "InvoiceItem"
+          }
+        ],
+        "discountText": null,
+        "discountRate": null,
+        "invoiceAddress": {
+          "name1": "Donaldson Ent.",
+          "name2": "Business Unit Sales",
+          "street": "7800 Eu, Av.",
+          "postalCode": 954,
+          "city": "San Isidro",
+          "country": "DE",
+          "complete": true
+        },
+        "shippingCosts": {
+          "value": 11,
+          "currency": "EUR"
+        },
+        "evaluationDate": null,
+        "billing": null,
+        "vatRate": 0.19,
+        "typeExtends": "Report",
+        "type": "Invoice",
+        "_id": "R11",
+        "_rev": "1-863b76ddf5ed83385bddb16814a1873a"
+      }
+    },
+    {
+      "id": "_design/processed-by-order-item",
+      "key": "_design/processed-by-order-item",
+      "value": {
+        "rev": "18-ddee46bf02951fbb07aaf6c3e0eb2bf4"
+      },
+      "doc": {
+        "views": {
+          "processed-order-items": {
+            "map": "function (doc) {\n    if (doc.typeExtends == \"Report\"){\n        for (var i in doc.items) {\n            var item = doc.items[i];\n            if (item.predecessor)\n                emit([doc._id, item.position], {_id: doc.items[i].orderItem.documentNo});\n        }\n    }\n}"
+          }
+        },
+        "_id": "_design/processed-by-order-item",
+        "_rev": "18-ddee46bf02951fbb07aaf6c3e0eb2bf4"
+      }
+    }
+  ]
+}
